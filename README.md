@@ -1,6 +1,14 @@
 # Game_Super_Mario
 Jogo em JavaScrip que simula o jogo Super Mário Bros Desenvolvido no Workshop SEMINFO 2019.
 
+# Para rodar o jogo:
+  - Faça o download do repositório na sua máquina;
+  - Abra o arquivo index.html com o seu navegador;
+  - Use as setas para mover o Mário e pular;
+  - Ctrl pra tacar fogo em tudo;
+  - Shift pra correr que nem doido epular mais alto e;
+  - Divirta-se!
+
 Abaixo algumas telas do jogo:!
 
 [Jogo_super_mario1](https://user-images.githubusercontent.com/17989591/141139725-a8176598-ded5-450a-bcfa-a5869674464e.png)
